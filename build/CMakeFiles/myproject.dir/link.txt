@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/myproject.dir/src/glad.c.o CMakeFiles/myproject.dir/src/main.c.o -o /home/joer/Projects/SolarSystem/bin/myproject   -L/home/joer/Projects/SolarSystem/lib  -Wl,-rpath,/home/joer/Projects/SolarSystem/lib /home/joer/Projects/SolarSystem/lib/libglfw3.a -lm 

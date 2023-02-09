@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/SolarSystem.dir/src/glad.c.o CMakeFiles/SolarSystem.dir/src/main.c.o CMakeFiles/SolarSystem.dir/src/shader.c.o CMakeFiles/SolarSystem.dir/src/vector3.c.o CMakeFiles/SolarSystem.dir/src/vertexArray.c.o CMakeFiles/SolarSystem.dir/src/vertexBuffer.c.o -o SolarSystem  /usr/local/lib/libglfw3.a /usr/lib/librt.a -lm -ldl /usr/lib/libX11.so 

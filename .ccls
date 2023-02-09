@@ -1,0 +1,12 @@
+"compileCommands": [
+    {
+        "directory": "",
+        "command": "clang++ -I/include -c file.c -o file.o"
+    }
+]
+
+"includePath": [
+    "/home/joer/Projects/OpenGL/include"
+]
+
+

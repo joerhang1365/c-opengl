@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/OpenGLTemplate.dir/src/glad.c.o CMakeFiles/OpenGLTemplate.dir/src/main.c.o CMakeFiles/OpenGLTemplate.dir/src/matrix.c.o CMakeFiles/OpenGLTemplate.dir/src/vector3.c.o -o OpenGLTemplate  /usr/local/lib/libglfw3.a /usr/lib/librt.a -lm -ldl /usr/lib/libX11.so 
